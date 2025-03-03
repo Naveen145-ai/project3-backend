@@ -1,0 +1,253 @@
+[
+    {
+      "name": "Obesity",
+      "description": "Obesity means having too much body fat, which can make you unhealthy.",
+      "symptoms": ["Fever", "Cough", "Sore throat", "Body aches", "Fatigue"],
+      "severity": "Moderate",
+      "images" : [
+        {
+          "image": "/images/diseases/1.jpg"
+
+        }
+      ],
+      "treatment": "In some cases, doctors prescribe weigth-loss medicines like 'Orlistat'.  but life lifestyle changes are the best cure.",
+      "prevention": "1.avoid fast food and soft drinks   2.Stay active by walking or doing physical work"
+
+    },
+    {
+      "name": "Diabetes",
+      "description": "Diabetes happens when your blood has too much sugar because your body cannot use insulin properly.",
+      "symptoms": ["Increased thirst", "Frequent urination", "Unexplained weight loss", "Blurred vision"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/2.jpg"
+
+        }
+      ],
+      "treatment": "1. Metformin (helps control blood sugar  2.insulin(used in serious cases).",
+      "prevention": "1.reduce sugar intake  2. Drink plenty of water"
+    },
+    {
+      "name": "hypertension",
+      "description": "t means the force of your blood against your blood vessels is too high, which can cause heart problems.",
+      "symptoms": ["Headache", "Dizziness", "Nosebleeds", "Chest pain"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/3.jpg"
+
+        }
+      ],
+      "treatment": "Amlodipine and Losartan (help lower blood pressure)",  
+
+      "prevention": "1.Eat less salty and oily food 2.Control stress"  
+
+    },
+    {
+      "name": "Heart Disease",
+      "description": "Heart disease happens when the heart’s blood supply is blocked, leading to chest pain or a heart attack.",
+      "symptoms": ["Shortness of breath", "Wheezing", "Coughing", "Chest tightness"],
+      "severity": "Moderate",
+      "images" : [
+        {
+          "image": "/images/diseases/4.jpg"
+
+        }
+      ],
+      "treatment": "1.Aspirin (helps prevent heart attacks)  2. Statins (reduce cholesterol)",
+      "prevention": "1.Eat less fat and more fiber-rich food  2.Stay away from smoking and alcohol " 
+
+    },
+    {
+      "name": "Depression and Anxiety ",
+      "description": "Depression is a mental health problem where a person feels sad, hopeless, and tired all the time. ",
+      "symptoms": ["High fever", "Severe headache", "Joint pain", "Skin rash"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/5.jpg"
+
+        }
+      ],
+      "treatment": "1. Fluoxetine and Sertraline (help improve mood)  ",
+      "prevention": "1.Talk to a therapist or a trusted person  2.Do activities that make you happy, like listening to music or exercise"  
+  
+
+    },
+    {
+      "name": "PCOS (Polycystic Ovary Syndrome)",
+
+      "description": "PCOS is a condition where a woman's hormones become unbalanced, causing irregular periods, acne, weight gain, and difficulty in getting pregnant.  ",
+      "symptoms": ["Fever", "Chills", "Nausea", "Sweating", "Muscle pain"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/6.jpg"
+
+        }
+      ],
+      "treatment": "1.Birth control pills (to regulate periods).  2.Metformin (helps control insulin levels).",
+      "prevention": "1.Eat healthy, home-cooked meals   2.Avoid junk food and sugary drinks. "
+    },
+    {
+      "name": "Fatty Liver Disease (Non-Alcoholic)",
+      "description": "Fatty liver happens when too much fat builds up in the liver, making it hard for the liver to work properly.",
+      "symptoms": ["Cough", "Fever", "Shortness of breath", "Chest pain"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/7.jpg"
+
+        }
+      ],
+      "treatment": "1.Vitamin E supplements (help protect liver cells).   2. Pioglitazone (used in some cases).",
+      "prevention": "1.Reduce sugar and processed food in your diet. 2.Drink green tea and eat foods rich in antioxidants" 
+   
+
+    },
+    {
+      "name": "Asthma and Allergies",
+      "description": "Asthma is a condition where breathing becomes difficult due to swelling in the airways. Allergies happen when the body reacts to dust, pollen, or food.",  
+      "symptoms": ["Persistent cough", "Weight loss", "Night sweats", "Fever"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/8.jpg"
+
+        }
+      ],
+      "treatment": "1.Inhalers (Salbutamol, Budesonide) to open the airways.  2.Antihistamines (Cetirizine, Loratadine) for allergies.",
+      "prevention": "Wear a mask in polluted areas. 2.Avoid smoking or secondhand smoke."  
+
+  
+ 
+    },
+    {
+      "name": "Cancer",
+      "description": "Cancer happens when cells grow abnormally and form lumps (tumors), which can spread to other parts of the body.",
+      "symptoms": ["Fever", "Cough", "Loss of taste and smell", "Fatigue", "Shortness of breath"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/9.jpg"
+
+        }
+      ],
+      "treatment": "1.Different medicines are used depending on the type of cancer. 2.Targeted therapy drugs",
+      "prevention": "1.Eat antioxidant-rich foods like berries, green tea, and turmeric. 2.Stop smoking and reduce alcohol intake.  " 
+ 
+    },
+    {
+      "name": "Autoimmune Diseases",
+      "description": "Autoimmune diseases happen when the body’s immune system attacks its own cells instead of protecting them. ",
+      "symptoms": ["High fever", "Severe joint pain", "Headache", "Fatigue"],
+      "severity": "Moderate",
+      "images" : [
+        {
+          "image": "/images/diseases/10.jpg"
+
+        }
+      ],
+      "treatment": "1.Levothyroxine (for thyroid problems). 2.Steroids (for lupus and other autoimmune conditions).",
+      "prevention": "1.Avoid stress as it can make autoimmune diseases worse. 2. Get enough sunlight for Vitamin D."  
+
+    },
+    {
+      "name": " Osteoporosis and Vitamin D Deficiency",
+      "description": "Osteoporosis means bones become weak and break easily. Vitamin D deficiency happens when the body doesn’t get enough sunlight, leading to weak bones",
+      "symptoms": ["High fever", "Weakness", "Abdominal pain", "Loss of appetite"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/11.jpg"
+
+        }
+      ],
+      "treatment": "1.Calcium tablets to strengthen bones. 2.Vitamin D supplements for better calcium absorption.",
+      "prevention": "1.Spend 15-30 minutes in sunlight every day. 2. Eat dairy products and leafy greens."
+ 
+
+    },
+    {
+      "name": "Migraine",
+      "description": "Migraine is a severe headache that causes pain on one side of the head. It often comes with nausea, vomiting, and sensitivity to light and sound.  ",
+      "symptoms": ["Watery diarrhea", "Vomiting", "Muscle cramps", "Dehydration"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/12.jpg"
+
+        }
+      ],
+      "treatment": "1. Paracetamol, Ibuprofen (pain relievers).  2.Triptans (for severe migraine attacks).",
+      "prevention": "1.Maintain a regular sleep schedule.  2.Maintain a regular sleep schedule.  "
+    },
+    {
+      "name": "Insomnia (Sleep Disorder) ",
+      "description": "Insomnia is a condition where a person has trouble falling asleep or wakes up too early and feels tired all day.",  
+
+
+      "symptoms": ["Jaundice", "Abdominal pain", "Dark urine", "Fatigue"],
+      "severity": "Severe",
+      "images" : [
+        {
+          "image": "/images/diseases/13.jpg"
+
+        }
+      ],
+      "treatment": "1.Melatonin supplements (help regulate sleep).  2. Sleeping pills (only under doctors advice).",
+      "prevention": "1.Avoid caffeine before bedtime. 2.Keep the bedroom dark and quiet for better sleep."
+    },
+    {
+      "name": "Acne and Skin Problems",
+      "description": "Acne is a common skin problem where pimples, blackheads, and whiteheads appear, mostly on the face.",
+      "symptoms": ["Fever", "Muscle pain", "Vomiting", "Red eyes"],
+      "severity": "Moderate",
+      "images" : [
+        {
+          "image": "/images/diseases/14.jpg"
+
+        }
+      ],
+      "treatment": "1.Benzoyl peroxide, Salicylic acid (help clear acne).  2.Retinoid creams (reduce pimples and scars).",
+      "prevention": "1.Eat fruits and vegetables instead of oily food.  2.Avoid stress, as it can trigger acne."  
+
+    },
+    {
+      "name": "Kidney Stones",
+      "description": "Kidney stones are hard deposits of minerals that form inside the kidneys, causing severe pain when passing urine.",
+      "symptoms": ["High fever", "Cough", "Runny nose", "Red rash"],
+      "severity": "Moderate",
+      "images" : [
+        {
+          "image": "/images/diseases/15.jpg"
+
+        }
+      ],
+      "treatment": "1.Painkillers (Ibuprofen) to reduce pain.  2.Alpha-blockers (help pass stones easily).",
+      "prevention": "1.Drink at least 8 glasses of water daily.  2.Reduce salt and junk food intake."  
+
+    },
+    {
+      
+        "name": "Eye Check-up",
+        "description": "An eye check-up is a routine examination to assess vision and detect any eye-related issues or diseases.",
+        "symptoms": ["Blurred vision", "Eye strain", "Frequent headaches", "Difficulty seeing at night"],
+        "severity": "Mild to Severe (depending on condition)",
+        "images": [
+          {
+            "image": "/images/diseases/16.jpg"
+            
+
+
+          }
+        ],
+        "treatment": "1. Prescription glasses or contact lenses for vision correction. 2. Eye drops for dryness or infections. 3. Surgery for serious conditions like cataracts or glaucoma.",
+        "prevention": "1. Regular eye check-ups every 6-12 months. 2. Limit screen time and take frequent breaks. 3. Maintain a healthy diet rich in Vitamin A. 4. Wear protective eyewear in bright sunlight."
+      
+      
+    }
+    
+  ]
+  

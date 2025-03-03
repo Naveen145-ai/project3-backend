@@ -1,0 +1,248 @@
+[
+    {
+      "age_group": "Birth to 6 Years",
+      "ages": [
+        {
+          "age": "At Birth",
+          "vaccines": [
+            {
+              "name": "BCG",
+              "description": "For tuberculosis (in some countries)"
+            },
+            {
+              "name": "Hepatitis B",
+              "description": "Protects against hepatitis B virus"
+            }
+          ]
+        },
+        {
+          "age": "2 Months",
+          "vaccines": [
+            {
+              "name": "DTP",
+              "description": "Diphtheria, Tetanus, Pertussis"
+            },
+            {
+              "name": "Hib",
+              "description": "Haemophilus influenzae type B"
+            },
+            {
+              "name": "Polio",
+              "description": "IPV/OPV"
+            },
+            {
+              "name": "Hepatitis B",
+              "description": "If not given at birth"
+            },
+            {
+              "name": "Pneumococcal (PCV)",
+              "description": "Prevents pneumococcal diseases"
+            },
+            {
+              "name": "Rotavirus",
+              "description": "Prevents rotavirus infection"
+            }
+          ]
+        },
+        {
+          "age": "4 Months",
+          "vaccines": [
+            {
+              "name": "DTP",
+              "description": "Repeat of 2-month vaccines"
+            },
+            {
+              "name": "Hib",
+              "description": "Haemophilus influenzae type B"
+            },
+            {
+              "name": "Polio",
+              "description": "IPV/OPV"
+            },
+            {
+              "name": "PCV",
+              "description": "Pneumococcal vaccine booster"
+            },
+            {
+              "name": "Rotavirus",
+              "description": "Repeat dose"
+            }
+          ]
+        },
+        {
+          "age": "6 Months",
+          "vaccines": [
+            {
+              "name": "DTP",
+              "description": "Repeat of previous doses"
+            },
+            {
+              "name": "Hib",
+              "description": "Haemophilus influenzae type B"
+            },
+            {
+              "name": "Polio",
+              "description": "IPV/OPV"
+            },
+            {
+              "name": "Hepatitis B",
+              "description": "Final dose"
+            },
+            {
+              "name": "PCV",
+              "description": "Pneumococcal vaccine booster"
+            }
+          ]
+        },
+        {
+          "age": "9 Months",
+          "vaccines": [
+            {
+              "name": "Measles or MMR",
+              "description": "Measles, Mumps, Rubella"
+            },
+            {
+              "name": "Typhoid",
+              "description": "In some countries"
+            }
+          ]
+        },
+        {
+          "age": "12-15 Months",
+          "vaccines": [
+            {
+              "name": "MMR",
+              "description": "2nd dose"
+            },
+            {
+              "name": "Varicella",
+              "description": "Chickenpox vaccine"
+            },
+            {
+              "name": "Hepatitis A",
+              "description": "Prevents Hepatitis A"
+            },
+            {
+              "name": "PCV Booster",
+              "description": "Pneumococcal vaccine booster"
+            }
+          ]
+        },
+        {
+          "age": "18 Months",
+          "vaccines": [
+            {
+              "name": "DTP Booster",
+              "description": "Diphtheria, Tetanus, Pertussis booster"
+            },
+            {
+              "name": "Hib Booster",
+              "description": "Haemophilus influenzae type B booster"
+            },
+            {
+              "name": "Polio Booster",
+              "description": "IPV/OPV booster"
+            }
+          ]
+        },
+        {
+          "age": "2 Years",
+          "vaccines": [
+            {
+              "name": "Typhoid Vaccine",
+              "description": "Protects against typhoid fever"
+            }
+          ]
+        },
+        {
+          "age": "4-6 Years",
+          "vaccines": [
+            {
+              "name": "DTP Booster",
+              "description": "Diphtheria, Tetanus, Pertussis booster"
+            },
+            {
+              "name": "Polio Booster",
+              "description": "IPV/OPV booster"
+            },
+            {
+              "name": "MMR",
+              "description": "If not given earlier"
+            },
+            {
+              "name": "Varicella",
+              "description": "2nd dose for Chickenpox"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "age_group": "10-18 Years",
+      "ages": [
+        {
+          "age": "10-12 Years",
+          "vaccines": [
+            {
+              "name": "HPV",
+              "description": "Human Papillomavirus vaccine for girls and boys"
+            },
+            {
+              "name": "Tdap Booster",
+              "description": "Tetanus, Diphtheria, Pertussis booster"
+            }
+          ]
+        },
+        {
+          "age": "16-18 Years",
+          "vaccines": [
+            {
+              "name": "Meningococcal Vaccine",
+              "description": "For meningitis prevention"
+            },
+            {
+              "name": "Influenza",
+              "description": "Yearly Flu Shot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "age_group": "Adults (18+ Years)",
+      "ages": [
+        {
+          "age": "Every 10 Years",
+          "vaccines": [
+            {
+              "name": "Tdap or Td Booster",
+              "description": "For tetanus, diphtheria, and pertussis"
+            }
+          ]
+        },
+        {
+          "age": "Above 50 Years",
+          "vaccines": [
+            {
+              "name": "Shingles (Zoster Vaccine)",
+              "description": "For those with a history of Chickenpox"
+            },
+            {
+              "name": "Annual Flu Shot",
+              "description": "Recommended every year"
+            }
+          ]
+        },
+        {
+          "age": "Above 65 Years",
+          "vaccines": [
+            {
+              "name": "Pneumococcal Vaccine",
+              "description": "PPSV23, PCV13 for pneumonia prevention"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

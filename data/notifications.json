@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Obesity",
+      "message": "Join us for a free Obesity on March 10 at City Health Center.",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 2,
+      "title": "Diabetes",
+      "message": "A free general Diabetes will be conducted on March 15 at Community Hall.",
+      "date": "2025-03-15"
+    },
+    {
+      "id": 3,
+      "title": "High Blood Pressure (Hypertension)",
+      "message": "Free High Blood Pressure (Hypertension) on March 20 at Green Park Hospital. Don't miss it!",
+      "date": "2025-03-20"
+    },
+    {
+      "id": 4,
+      "title": "CHeart Disease",
+      "message": "Get a free Heart Disease and consultation on March 25 at Apollo Clinic.",
+      "date": "2025-03-25"
+    },
+    {
+      "id": 5,
+      "title": "Depression and Anxiety",
+      "message": "Depression and Anxiety March 30 at Red Cross Center.",
+      "date": "2025-03-30"
+    },
+    {
+      "id": 6,
+      "title": "PCOS (Polycystic Ovary Syndrome)",
+      "message": "Get your free PCOS (Polycystic Ovary Syndrome) check up on April 5 at City Hospital.",
+      "date": "2025-04-05"
+    },
+    {
+      "id": 7,
+      "title": "Fatty Liver Disease (Non-Alcoholic)  ",
+      "message": "Visit our free Fatty Liver Disease (Non-Alcoholic)   check-up camp on April 12 at Smile Care Clinic.",
+      "date": "2025-04-12"
+    },
+    {
+      "id": 8,
+      "title": "Asthma and Allergies check-up",
+      "message": "Free Asthma and Allergies check up camp on April 18 at Mother Care Hospital.",
+      "date": "2025-04-18"
+    },
+    {
+      "id": 9,
+      "title": "Cancer ",
+      "message": "Join our Cancer  camp on April 22 at Derma Clinic.",
+      "date": "2025-04-22"
+    },
+    {
+      "id": 10,
+      "title": "Autoimmune Diseases health camp",
+      "message": "Get free Autoimmune Diseases check up on April 28 at City Pediatric Center.",
+      "date": "2025-04-28"
+    },
+    {
+      "id": 11,
+      "title": "Osteoporosis and Vitamin D Deficiency",
+      "message": "Join free Osteoporosis and Vitamin D Deficiency  on May 5 at Wellness Hub.",
+      "date": "2025-05-05"
+    },
+    {
+      "id": 12,
+      "title": "Migraine Check-up",
+      "message": "Get Migraine check upon May 12 at Health & Wellness Center.",
+      "date": "2025-05-12"
+    },
+    {
+      "id": 13,
+      "title": "Insomnia",
+      "message": "Free health check-ups for Insomnia  on May 20 at Old Age Home.",
+      "date": "2025-05-20"
+    },
+    {
+      "id": 14,
+      "title": "Free Acne and Skin Problems Session",
+      "message": "Get free Acne and Skin Problems sessions on May 25 at Rehab Center.",
+      "date": "2025-05-25"
+    },
+    {
+      "id": 15,
+      "title": "Kidney Stones health camp",
+      "message": "Join us for a free Kidney Stones health camp on May 30 at Oncology Center.",
+      "date": "2025-05-30"
+    }
+  ]
+  
