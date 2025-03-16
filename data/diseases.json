@@ -30,7 +30,7 @@
     },
     {
       "name": "hypertension",
-      "description": "t means the force of your blood against your blood vessels is too high, which can cause heart problems.",
+      "description": "it means the force of your blood against your blood vessels is too high, which can cause heart problems.",
       "symptoms": ["Headache", "Dizziness", "Nosebleeds", "Chest pain"],
       "severity": "Severe",
       "images" : [
